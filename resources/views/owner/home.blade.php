@@ -1,0 +1,1 @@
+@extends('owner.layout.app')
